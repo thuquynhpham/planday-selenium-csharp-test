@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZKydf/34S2Gjp1+9r0463A0UuloQ+vm2L8nkRSzFB2g9gwucs1MeDPztW+is2qBKI0kX/S13upe9gJw6Muv+RA==",
+  "dgSpecHash": "jND2+DfDgafdL9eEsPq380pXUnCC376VklgsmPwUym7axHqWXW27yrMV4KXTxbz/9Eiumy3A4mDL77AwOXYxjA==",
   "success": true,
-  "projectFilePath": "/Users/thuquynhpham/Projects/SeleniumDemo/SeleniumDemo/SeleniumDemo.csproj",
+  "projectFilePath": "/Users/thuquynhpham/Documents/GitHub/planday-selenium-csharp-test/SeleniumDemo/SeleniumDemo.csproj",
   "expectedPackageFiles": [
     "/Users/thuquynhpham/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
     "/Users/thuquynhpham/.nuget/packages/cucumber.messages/6.0.1/cucumber.messages.6.0.1.nupkg.sha512",

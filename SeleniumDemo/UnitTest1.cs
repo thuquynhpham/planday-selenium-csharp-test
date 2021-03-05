@@ -11,7 +11,6 @@ namespace SeleniumDemo
         public void Setup()
         {
             Driver = new ChromeDriver("/Users/thuquynhpham/Projects/SeleniumDemo/SeleniumDemo/Driver");
-            Console.WriteLine("Setup");
         }
 
         [Test]
@@ -24,7 +23,6 @@ namespace SeleniumDemo
             string comboboxContrlName = "AllMealsCombo";
             CustomControl.ComboBox(comboboxContrlName, "Almond");
 
-            Console.WriteLine("Test1");
             Assert.Pass();
         }
 

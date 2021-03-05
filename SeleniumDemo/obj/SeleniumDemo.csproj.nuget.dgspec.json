@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thuquynhpham/Projects/SeleniumDemo/SeleniumDemo/SeleniumDemo.csproj": {}
+    "/Users/thuquynhpham/Documents/GitHub/planday-selenium-csharp-test/SeleniumDemo/SeleniumDemo.csproj": {}
   },
   "projects": {
-    "/Users/thuquynhpham/Projects/SeleniumDemo/SeleniumDemo/SeleniumDemo.csproj": {
+    "/Users/thuquynhpham/Documents/GitHub/planday-selenium-csharp-test/SeleniumDemo/SeleniumDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thuquynhpham/Projects/SeleniumDemo/SeleniumDemo/SeleniumDemo.csproj",
+        "projectUniqueName": "/Users/thuquynhpham/Documents/GitHub/planday-selenium-csharp-test/SeleniumDemo/SeleniumDemo.csproj",
         "projectName": "SeleniumDemo",
-        "projectPath": "/Users/thuquynhpham/Projects/SeleniumDemo/SeleniumDemo/SeleniumDemo.csproj",
+        "projectPath": "/Users/thuquynhpham/Documents/GitHub/planday-selenium-csharp-test/SeleniumDemo/SeleniumDemo.csproj",
         "packagesPath": "/Users/thuquynhpham/.nuget/packages/",
-        "outputPath": "/Users/thuquynhpham/Projects/SeleniumDemo/SeleniumDemo/obj/",
+        "outputPath": "/Users/thuquynhpham/Documents/GitHub/planday-selenium-csharp-test/SeleniumDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thuquynhpham/.config/NuGet/NuGet.Config"

@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{3D9CFFE0-AF39-496E-A943-32BB3CE9EC45}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumDemo/UnitTest1.cs">
     <Files>
-      <File FileName="SeleniumDemo/UnitTest1.cs" Line="10" Column="1" />
-      <File FileName="SeleniumDemo/CustomControl.cs" Line="17" Column="1" />
-      <File FileName="SeleniumDemo/DriverHelper.cs" Line="8" Column="22" />
+      <File FileName="SeleniumDemo/UnitTest1.cs" Line="25" Column="1" />
+      <File FileName="SeleniumDemo/CustomControl.cs" />
+      <File FileName="SeleniumDemo/DriverHelper.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,20 +15,9 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SeleniumDemo" expanded="True">
-            <Node name="SeleniumDemo" expanded="True">
-              <Node name="SeleniumDemo" expanded="True">
-                <Node name="Tests" expanded="True">
-                  <Node name="Test1" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="SeleniumDemo" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -38,7 +27,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/thuquynhpham/Projects/SeleniumDemo/SeleniumDemo/UnitTest1.cs" relfile="SeleniumDemo/UnitTest1.cs" line="29" column="1" />
+      <Breakpoint file="/Users/thuquynhpham/Documents/GitHub/planday-selenium-csharp-test/SeleniumDemo/UnitTest1.cs" relfile="SeleniumDemo/UnitTest1.cs" line="27" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
