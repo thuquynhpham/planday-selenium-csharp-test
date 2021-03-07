@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{3D9CFFE0-AF39-496E-A943-32BB3CE9EC45}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumDemo/UnitTest1.cs">
     <Files>
-      <File FileName="SeleniumDemo/UnitTest1.cs" Line="25" Column="1" />
+      <File FileName="SeleniumDemo/UnitTest1.cs" Line="45" Column="1" />
       <File FileName="SeleniumDemo/CustomControl.cs" />
       <File FileName="SeleniumDemo/DriverHelper.cs" />
+      <File FileName="SeleniumDemo/Pages/LoginPage.cs" Line="19" Column="20" />
+      <File FileName="SeleniumDemo/Pages/HomePage.cs" Line="12" Column="61" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SeleniumDemo" expanded="True">
             <Node name="SeleniumDemo" expanded="True">
+              <Node name="Pages" expanded="True" />
               <Node name="UnitTest1.cs" selected="True" />
             </Node>
           </Node>
@@ -17,7 +20,15 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SeleniumDemo" expanded="True" selected="True" />
+          <Node name="SeleniumDemo" expanded="True">
+            <Node name="SeleniumDemo" expanded="True">
+              <Node name="SeleniumDemo" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Test1" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -26,9 +37,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/thuquynhpham/Documents/GitHub/planday-selenium-csharp-test/SeleniumDemo/UnitTest1.cs" relfile="SeleniumDemo/UnitTest1.cs" line="27" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

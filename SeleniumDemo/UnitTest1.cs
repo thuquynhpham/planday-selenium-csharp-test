@@ -2,6 +2,7 @@ using System;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using SeleniumDemo.Pages;
 
 namespace SeleniumDemo
 {
@@ -24,6 +25,22 @@ namespace SeleniumDemo
             CustomControl.ComboBox(comboboxContrlName, "Almond");
 
             Assert.Pass();
+        }
+
+        [Test]
+        public void LoginTest()
+        {
+            Driver.Navigate().GoToUrl("http://eaapp.somee.com/");
+
+            HomePage homePage = new HomePage();
+            LoginPage loginPage = new LoginPage();
+
+            homePage.ClickLogin();
+            loginPage.EnterUsernameAndPassword("admin", "password");
+            loginPage.ClickLogin();
+
+            Assert.That(homePage.isLogoffExist(), Is.True, "Logoff button doesn't exist");
+
         }
 
         [TearDown]
